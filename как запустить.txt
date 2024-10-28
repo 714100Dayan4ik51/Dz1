@@ -1,0 +1,6 @@
+1) открыть терминал
+2) установить Docker
+3) sudo docker pull dayanqwe/bankomat-app
+4) sudo docker run -it dayanqwe/bankomat-app
+
+ссылка на репозиторий: https://github.com/714100Dayan4ik51/Bankomat
